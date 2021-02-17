@@ -20,7 +20,7 @@ export default function Home() {
         </h1>
 
         <p className="description">
-          It matures as i learn about next.js
+          It will be populated as i learn about next.js
         </p>
 
         <div className="grid">
@@ -28,7 +28,7 @@ export default function Home() {
           <Link href="/about">
           <a href="https://nextjs.org/docs" className="card">
             <h3>Caluculator   &rarr;</h3>
-            <p>My first project using hooks in next </p>
+            <p>Calculator using hooks in next js </p>
           </a>
 
           </Link>
