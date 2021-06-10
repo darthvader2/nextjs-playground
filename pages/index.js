@@ -32,6 +32,21 @@ export default function Home() {
           </a>
 
           </Link>
+          <Link href="/twidder">
+          <a  className="card">
+            <h3>Twidder   &rarr;</h3>
+            <p>Twitter mock using nextjs and in house API</p>
+          </a>
+
+          </Link>
+          <Link href = "/quotes">
+
+          <a  className="card">
+            <h3>Quote -  machine   &rarr;</h3>
+            <p>Twitter mock using nextjs and in house API</p>
+          </a>
+          
+          </Link>
         </div>
       </main>
 
